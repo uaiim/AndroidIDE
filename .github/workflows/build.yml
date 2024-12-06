@@ -17,7 +17,7 @@ on:
 
 env:
   # Misc
-  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GH_TOKEN: ${{ secrets.TOKEN }}
 
 
   # Build configuration
